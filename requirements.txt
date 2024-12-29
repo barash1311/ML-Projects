@@ -10,3 +10,4 @@ seaborn
 # sqlite3
 requests
 flask
+streamlit

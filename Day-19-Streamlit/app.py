@@ -20,3 +20,4 @@ char_Data=pd.DataFrame(
     np.random.randn(20,4),columns=["a","b","c","d"]
 )
 st.line_chart(char_Data)
+

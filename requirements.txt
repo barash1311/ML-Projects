@@ -16,3 +16,5 @@ statsmodels
 plotly
 opendatasets
 tensorflow
+nltk
+svgling
